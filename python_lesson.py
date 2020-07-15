@@ -27,7 +27,7 @@ integer_change = len(integer)
 change = 3
 
 while integer_change > 0:
-    if integer == '1':
+    if integer == '0':
         word = 'զրո'
         break
     if integer_side[integer_change -2] =='1':
